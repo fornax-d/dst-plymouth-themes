@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=dst
+Description=Don't Starve Together plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dst
+ScriptFile=/usr/share/plymouth/themes/dst/dst.script

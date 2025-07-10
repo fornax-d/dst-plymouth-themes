@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bernie
+Description=Bernie plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bernie
+ScriptFile=/usr/share/plymouth/themes/bernie/bernie.script

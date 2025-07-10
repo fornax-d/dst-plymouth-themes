@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lunar-rift
+Description=Lunar Rift plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lunar-rift
+ScriptFile=/usr/share/plymouth/themes/lunar-rift/lunar-rift.script

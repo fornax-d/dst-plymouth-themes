@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=wurt
+Description=Wurt plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/wurt
+ScriptFile=/usr/share/plymouth/themes/wurt/wurt.script

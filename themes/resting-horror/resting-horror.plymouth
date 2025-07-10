@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=resting-horror
+Description=Resting Horror plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/resting-horror
+ScriptFile=/usr/share/plymouth/themes/resting-horror/resting-horror.script

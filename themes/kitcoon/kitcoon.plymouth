@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=kitcoon
+Description=Kitcoon plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kitcoon
+ScriptFile=/usr/share/plymouth/themes/kitcoon/kitcoon.script
